@@ -5,7 +5,7 @@
   }
   body {
     background-color: var(--bg);
-    color: var(--fontColor); /* Garante que a cor do texto também se ajuste ao tema */
+    color: var(--fontColor); 
   }
   li {
     list-style: circle;
